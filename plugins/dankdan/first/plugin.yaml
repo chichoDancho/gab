@@ -1,6 +1,0 @@
-plugin:
-    name: 'dankdan.first::lang.plugin.name'
-    description: 'dankdan.first::lang.plugin.description'
-    author: dankdan
-    icon: oc-icon-adjust
-    homepage: ''
