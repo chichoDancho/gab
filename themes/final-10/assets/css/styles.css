@@ -964,14 +964,20 @@ header {
   width: 100%;
   position: relative;
 }
-
 .home-main-content-box-photos {
-  background: url("https://cdn.pixabay.com/photo/2020/08/10/07/35/woman-5477042_1280.jpg");
+  background: url("http://87.120.32.216/storage/app/media/home_media/images-and-video/tile-1.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   opacity: 0.8;
 }
+.home-main-content-box-photos-2 {
+    background: url("http://87.120.32.216/storage/app/media/home_media/images-and-video/tile-4.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.8;
+  }
 
 .home-main-content-box-photos-hover {
   position: absolute;
